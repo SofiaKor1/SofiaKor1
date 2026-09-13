@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sofiakor1.github.io/SofiaKor1/sitemap.xml
